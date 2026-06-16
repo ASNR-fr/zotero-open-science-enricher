@@ -3,9 +3,13 @@ Enrichissement automatique des notices Zotero via HAL, OpenAlex et Crossref
 ================================================================================
 
 Auteur       : Justine Ounnough, (https://orcid.org/0009-0001-9815-8206), ASNR/USNR/SEARCH
+
 Approbateur  : Vincent Louison, ASNR/DNUM/SPN/BCN
+
 Organisation : ASNR (Autorité de Sûreté Nucléaire et de Radioprotection)
+
 Version      : 7.4
+
 Date         : 2026-06-16
 
 --------------------------------------------------------------------------------
